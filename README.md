@@ -5,4 +5,4 @@ Robô autônomo usando a plataforma Arduíno que consegue perceber o ambiente e 
 ## Autor 
 João Gustavo
 ## Simulador do projeto
-![tinkercad]("https://www.tinkercad.com/things/9ygp4KwTb79-robozao")
+[tinkercad](https://www.tinkercad.com/things/9ygp4KwTb79-robozao)
